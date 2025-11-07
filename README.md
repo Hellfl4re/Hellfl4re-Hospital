@@ -55,7 +55,7 @@ This dataset is intended for analysis and research. Users are free to share and 
 For questions or concerns about the dataset, please contact :
 
 GitHub :
-Sagar Vats (a.k.a Daddy-Demonic), 
+Sagar Vats (a.k.a Hellfl4re), 
 Pranav (a.k.a Lusifer2602), 
 Harshita (a.k.a snow456931)
 
